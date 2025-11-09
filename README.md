@@ -14,8 +14,8 @@
 
 
 <!-- Royal Portrait -->
-<p align="center">
-    <img width="2048" height="1323" alt="image" src="https://github.com/user-attachments/assets/c4ef9f0e-7dc9-4881-9fec-0a9caaa928e1" />
+<p align="center"> <img width="606" height="408" alt="image" src="https://github.com/user-attachments/assets/524e70fb-e8e2-471b-9601-6f4d17650174" 
+ />
 </p>
 
 
@@ -24,6 +24,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Zen+Old+Mincho&duration=5000&pause=3000&color=d97e73&center=true&width=600&lines=You+stand+where+thrones+are+carved+from+grace+and+guilt+but+.+.+.;Where+elegance+and+chaos+dance+as+one+!;" />
 </p>
 <img width="2048" height="74" alt="image" src="https://github.com/user-attachments/assets/1ab2b1b7-fdbc-40b6-bfb1-a909c706c969" />
+
+
+
+<p align="left">
+  <a href="https://hellskingdom.atabook.org/">, 𝙰𝚃𝙰 𝙱𝙾𝙾𝙺 !</a>
+</p>
+
+<p align="right">
+  <a href="https://hellscastle.straw.page/">, 𝚂𝚃𝚁𝙰𝚆𝙿𝙰𝙶𝙴 !</a>
+</p>
+
+
+
+
+
 
 <p align="center">
 ${\textsf{
